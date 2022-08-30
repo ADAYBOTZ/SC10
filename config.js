@@ -16,10 +16,10 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 // Other
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.ownername = 'YahyaGanzz'
-global.botname = 'AzzBot•MD'
+global.owner = ['628905574160']
+global.premium = ['628293770424']
+global.ownername = 'ALDYTAMVAN'
+global.botname = 'ADAYBOT•MD'
 global.packname = '© YahyaGanzz'
 global.gc = 'https://github.com/AzzBott679'
 global.linkyt = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
